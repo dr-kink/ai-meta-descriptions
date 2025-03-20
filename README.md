@@ -43,5 +43,6 @@ Please note that these third-party projects are not officially maintained by us.
 ## Need Help?
 For support and documentation, visit our [GitHub Issues](https://github.com/your-repo/issues) or contact us via the WordPress plugin support forum.
 
+This plugin was developed for [Dr Kink](https://drkink.co.uk/ to help update meta date to rank in searches like [vibrating cock ring]([https://](https://drkink.co.uk/adult-toys/sex-toys/cock-ring/vibrating/))
 ---
 Happy updating! 🚀
